@@ -18,6 +18,16 @@
 
 # hasil latihan 1
 ![image.png](screenshot/11.png)
+<p1>"penggunaan end"
+<p>
+<p2>kalimat yang disertai end hasilnya akan menyambung
+<p>
+<p3>sedangkan kalimat yang tidak disertai kata end hasilnya akan berbeda barisan
+<p>
+<p4>"penggunaan separator"
+<p6>penggantian huruf menjadi angka
+<p7>w=10 x=15 y=20 z=25
+
 ![image.png](screenshot/12.png)
 ![image.png](screenshot/14.png)
 
